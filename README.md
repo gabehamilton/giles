@@ -186,7 +186,7 @@ giles.addCompiler [".styl", ".stylus"], '.css', (contents, filename, output) ->
 * Removed -w option, -s works better and more consistently
 
 ###License
-*Giles is available under the MIT license*.  We hope you find it useful.  Please let us at 255 BITS know if you use it for something cool.
+Giles is available under the MIT license.  We hope you find it useful.  Please let us at 255 BITS know if you use it for something cool.
 
 _Into every generation a slayer is born: one girl in all the world, a Chosen One.  One born with the strength and skill
 to fight the vampires, to stop the spread of their evil and swell of their numbers._
